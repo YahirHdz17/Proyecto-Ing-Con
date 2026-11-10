@@ -1,22 +1,14 @@
-PROCESAMIENTOS DE DATOS 
----formato
-índice 
-especificación de datos 
-crear un contenedor en jupiter 
+Estructura del Indice
+Regresión Líneal (Indice)
+- Conjunto de datos (Problematica)
+- Metadatos
+- Importar librerías 
+- Preprocesamiento de datos (Sub Indice)
+  -Verificar nulos
+  -Valores Repetidos
+- Modelado
+- Predicción
+- Métricas
+- Conclusión
 
 
--conjunto de datos (problemática)
--metadatos característica que esta dentro de nuestro conjunto de datos
--importar librerías 
--PREProcesamiento de datos 
- VERIFICAR NULOS
-HOMOLOGAR 
-REPETIDOS
-NORMALIZACION O ESTANDARIZACIÓN
-
-1.-LABEL ENCODER
-
--MODELO APLICARLO 
--METRICAS 
-PREDECICCIÓN
-CONCLUSION
